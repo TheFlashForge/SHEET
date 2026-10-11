@@ -1,0 +1,16 @@
+id,name,brand,style,abv
+b001,Guinness Draught,Guinness,Irish Stout,4.2
+b002,Sierra Nevada Pale Ale,Sierra Nevada,American Pale Ale,5.6
+b003,Weihenstephaner Hefeweissbier,Weihenstephaner,Hefeweizen,5.4
+b004,Duvel,Duvel,Belgian Golden Strong,8.5
+b005,Stella Artois,Stella Artois,Belgian Lager,5.2
+b006,Paulaner Hefe-Weissbier,Paulaner,Hefeweizen,5.5
+b007,Corona Extra,Corona,Mexican Lager,4.6
+b008,Heineken,Heineken,European Lager,5.0
+b009,New Belgium Fat Tire,New Belgium,American Amber,5.2
+b010,Lagunitas IPA,Lagunitas,English IPA,6.2
+b011,Rogue Dead Guy Ale,Rogue,Bock,6.5
+b012,Goose Island 312,Goose Island,Common Cider,4.6
+b013,Samuel Adams Boston Lager,Samuel Adams,Vienna Lager,4.9
+b014,Budweiser,Anheuser-Busch,American Lager,5.0
+b015,Coors Light,Molson Coors,American Light Lager,4.2

@@ -1,0 +1,6 @@
+numpy>=1.23
+torch>=2.0
+scikit-learn>=1.2
+
+# Optional, for PLM (RoBERTa) feature caches instead of the TF-IDF fallback:
+#   sentence-transformers>=2.2
